@@ -1,0 +1,25 @@
+body{
+    width: 800px;
+    background: rgb(105, 7, 7) ;
+    font-family: 'Courier New' , Courier , monospace;
+    font-size: 1em;
+    color: #333;
+    margin: 50px;
+    padding: 50px;
+    margin: 0 auto;
+}
+
+ul{
+    list-style-type:none;
+    color: rgb(199, 11, 11);
+
+}
+#nav{
+    float: right;
+    padding-top: 30px;
+}
+#nav h1{
+    display: inline;
+    margin: 0;
+    color: rgb(199, 11, 11);
+}
